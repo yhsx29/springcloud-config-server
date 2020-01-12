@@ -1,3 +1,4 @@
-user:
-  name: 樱花树下
-  age: 29
+test:
+  user:
+    name: 樱花树下
+    age: 29
